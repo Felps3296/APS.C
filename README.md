@@ -62,4 +62,4 @@ Quando o arquivo não cabe todo na memória principal e os registros são acessa
 
 ## ✍️ Autor
 
-Felipe Viana Reis - [LinkedIn](https://www.linkedin.com/in/felipe-reis-5a5658227/) | [GitHub](https://github.com/Felps3296)
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/64935845?v=4" width=115><br><sub>Felipe Viana Reis</sub>](https://github.com/Felps3296)
